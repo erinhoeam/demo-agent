@@ -20,8 +20,8 @@ This project contains two main implementations:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/DemoAgents.git
-cd DemoAgents
+git clone https://github.com/erinhoeam/demo-agent.git
+cd demo-agent
 ```
 
 2. Install dependencies:
