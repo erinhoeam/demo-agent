@@ -1,0 +1,19 @@
+# Core dependencies
+langchain>=0.1.0
+langchain-core>=0.1.14
+langchain-openai>=0.1.5
+langchain-community>=0.0.16
+langchain-text-splitters>=0.0.1
+
+# Agent orchestration
+langgraph>=0.0.20
+
+# Azure integration
+openai>=1.6.1
+
+# Utility libraries
+python-dotenv>=1.0.0
+tenacity>=8.2.3
+
+# Type hints support
+typing-extensions>=4.8.0
