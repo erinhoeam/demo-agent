@@ -17,3 +17,5 @@ tenacity>=8.2.3
 
 # Type hints support
 typing-extensions>=4.8.0
+
+streamlit
